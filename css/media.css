@@ -1,0 +1,92 @@
+@media only screen and (max-width: 1000px){
+    .divelement2{
+        width: 600px;
+        top: 400px;
+    }
+    .h22{
+        font-size: 40px;
+    }
+    h1{
+        font-size: 55px;
+    }
+}
+@media only screen and (max-width: 800px){
+    .img222{
+        height: 400px;
+    }
+    .img333{
+        height: 500px;
+    }
+    .divelement2{
+        left: 0;
+    }
+    h1{
+        font-size: 45px;
+    }
+    .img555{
+        height: 900px;
+       }
+}
+@media only screen and (max-width: 700px){
+    header .divelement {
+    width: 450px;
+   } 
+   h2{
+    font-size: 42px;
+   }
+   .imgheader{
+    background-position: right;
+   }
+   .h22{
+    font-size: 30px;
+   }
+   .divelement2{
+    width: 450px;
+   }
+}
+@media only screen and (max-width: 500px){
+    header .divelement {
+    width: 300px;
+   } 
+   .img222{
+    height: 300px;
+}
+   h2{
+    font-size: 30px;
+   }
+   p{
+    font-size: 17px;
+   }
+   h4{
+    font-size: 18px;
+   }
+   h3{
+    font-size: 18px;
+   }
+   h6{
+    font-size: 15px;
+   }
+   h1{
+    font-size: 32px;
+   }
+   .divelement2{
+    width: 300px;
+   }
+   .h22{
+    font-size: 20px;
+   }
+   .img555{
+    height: 750px;
+   }
+}
+@media only screen and (max-width: 350px){
+    h2{
+        font-size: 30px;
+    }
+    p{
+        font-size: 16px;
+    }
+    h1{
+        font-size: 29px;
+    }
+}

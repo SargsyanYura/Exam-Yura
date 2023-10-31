@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.imgheader{
+    height: 700px;
+    width: 100%;
+    background-image: url(img/1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header .divelement{
+    width: 600px;
+    position: relative;
+    top: 200px;
+}
+a{
+    text-decoration: none;
+}
+.learnmore{
+    padding: 15px 35px;
+    background-color: transparent;
+    border: 2px solid white;
+    transition: 0.5s;    font-size: 20px;
+    font-weight: 500;
+}
+.learnmore:hover{
+    background-color: white;
+    color: black !important;
+}
+h2{
+    font-size: 50px;
+    font-weight: 900;
+}
+h3{
+    font-weight: 700;
+}
+p{
+    font-size: 19px;
+}
+section{
+    padding: 0;
+}
+.imgstyle{
+    box-shadow: 3px 5px 10px 5px rgba(0, 0, 0,0.5);
+    margin: 10px;
+}
+.img111{
+    width: 120px;
+    border: 10px solid goldenrod;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.img222{
+    background-image: url(img/9.jpg);
+    width: 100%;
+    height: 600px;
+    background-position: center;
+}
+.bg-dark{
+    background-color: black !important;
+}
+input{
+    width: 100%;
+    height: 60px;
+    outline: none;
+    background-color: white;
+    border: none;
+    margin: 0 0 10px 0;
+}
+textarea{
+    width: 100%;
+    outline: none;
+    background-color: white;
+    border: none;
+}
+.submit{
+    background-color: goldenrod !important;
+    margin-top: 5px;
+    height: 50px;
+}
+iframe{
+    height: 550px;
+    width: 100%;
+}
+.bg-muted{
+    background-color: #333333 !important;
+}
+.bg-gold{
+    background-color: #f2e9d3 !important;
+}
+.img333{
+    height: 700px;
+    width: 100%;
+    background-image: url(img/10.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.divelement2{
+    width: 800px;
+    background-color: white;
+    padding: 25px;
+    position: relative;
+    top: 500px;
+    left: 100px;
+}
+.img444{
+    width: 100%;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: 0.5s;
+}
+.img444:hover{
+    opacity: 1;
+}
+.img555{
+    height: 700px;
+    width: 100%;
+    background-image:linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(img/21.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.getstarted{
+    padding: 20px 50px;
+    background-color: goldenrod;
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.getstarted:hover{
+    background-color: white;
+    color: black;
+}
+.colorgold{
+    color: goldenrod;
+}
+h1{
+    font-size: 3.75rem;
+    font-weight: 800;
+}
+.colorgrey{
+    color: gray;
+}
+.img666{
+    width: 100%;
+}
+.divelement3{
+    margin: 10px 30px;
+}
